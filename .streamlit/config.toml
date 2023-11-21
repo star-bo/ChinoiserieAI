@@ -1,0 +1,48 @@
+# [theme]
+# base = 'light'
+
+# [theme]
+# primaryColor="#3fb0e8"
+# backgroundColor="#192841"
+# secondaryBackgroundColor="#3fb0e8"
+# textColor="#f9f9f9"
+
+# [theme]
+# primaryColor="#3498db"
+# backgroundColor="#192841"
+# secondaryBackgroundColor="#3498db"
+# textColor="#f9f9f9"
+
+[theme]
+primaryColor="#526D82"
+backgroundColor="#27374D"
+secondaryBackgroundColor="#526D82"
+textColor="#f9f9f9"
+
+# [theme]
+# primaryColor="#192841"
+# backgroundColor="#1e1e1e"
+# secondaryBackgroundColor="#192841"
+# textColor="#f9f9f9"
+
+# [theme]
+# primaryColor="#5681d0"
+# backgroundColor="#212750"
+# secondaryBackgroundColor="#1a1a3d"
+# textColor="#f8f8f2"
+
+# [theme]
+# base="dark"
+# backgroundColor="#1e1e1e"
+# secondaryBackgroundColor="#252526"
+
+# [theme]
+# primaryColor="#3498db"
+# backgroundColor="#FFFFFF"
+# secondaryBackgroundColor="#F0F2F6"
+# textColor="#262730"
+# font="sans serif"
+
+# [theme]
+# base="dark"
+# primaryColor="FF8C00"
