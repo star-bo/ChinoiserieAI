@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 import base64
-import plotly.express as px
 
 # 设置页面配置
 st.set_page_config(
